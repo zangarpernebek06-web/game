@@ -7,6 +7,10 @@ C++ және OpenGL 3.3 (GLFW + GLEW, GLSL шейдерлер, VAO/VBO) арқы
 
 
 
+## Demo
+
+[Видео көру / Watch demo video](media/demo.mp4?raw=true)
+
 ## Басқару / Controls
 
 | Перне / Key | Әрекет / Action |
