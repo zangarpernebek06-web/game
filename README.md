@@ -5,17 +5,7 @@ C++ және OpenGL 3.3 (GLFW + GLEW, GLSL шейдерлер, VAO/VBO) арқы
 
 2D arcade game: catch falling stars, dodge meteors. Written in C++ with OpenGL 3.3 (GLFW + GLEW, GLSL shaders, VAO/VBO).
 
-## Demo
 
-![Demo](media/demo.gif)
-
-[Толық видео / Watch full video](media/demo.mp4)
-
-## Demo
-
-![Demo](media/demo.gif)
-
-[Толық видео / Watch full video](media/demo.mp4)
 
 ## Басқару / Controls
 
